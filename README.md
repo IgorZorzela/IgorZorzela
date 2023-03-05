@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IgorZorzela
-- 👀 I'm interested in got my first job in IT
-- 🌱 I’m currently learning JAVA, Andoird (Android Studio) and next is Flutter
-- 💞️ I’m looking to collaborate on small projects
+- 👋 Hi, I’m @IgorZorzela;
+- 👀 I'm interested in got my first job in IT;
+- 🌱 I’m currently learning JAVA, Spring Boot and Andoird ;
+- 💞️ I’m looking to collaborate on small projects;
 - 📫 How to reach me for twitter/igorzorzela or instagram @igorzorzela
 ##
 
